@@ -1,12 +1,12 @@
-body {font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #ffffff;}
 :root {
     --main-title-color: #ffffff;
     --second-title-color: #303030;
     --main-btn-color: #ffffff;
     --second-btn-color:var(--main-background-color)
   }
+  body {font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;}
   .header {background-color: #ffffff;
 }
 .list {list-style: none;}

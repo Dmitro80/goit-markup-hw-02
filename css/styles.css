@@ -9,6 +9,9 @@
     background-color: #ffffff;}
   .header {background-color: #ffffff;
 }
+.header-logo{color: #4D5AE5;
+}
+.header-logotype{color:#2E2F42}
 .list {list-style: none;}
 .link {text-decoration: none;}
 .adress{font-style: normal}

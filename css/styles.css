@@ -10,19 +10,19 @@
   .header {background-color: #ffffff;
 }
 .header-logo{ 
-    font-family: "Raleway";
+    font-family: "Raleway, sans-serif ";
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     color: #4D5AE5;
 }
-.header-logotype{color:#2E2F42}
+.header-logotype{color:#4D5AE5}
 .list {list-style: none;}
 .link {text-decoration: none;}
 .adress{font-style: normal}
 .header-logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway , sans-serif';
     font-style: normal;
     font-weight: 800;
     font-size: 18px;

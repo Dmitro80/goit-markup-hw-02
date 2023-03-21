@@ -39,6 +39,26 @@
     text-transform: uppercase;
     color: var(--second-color)
 }
+.hero {
+    background: #2E2F42;
+}
+
+.hero-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.title-text{font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;}
+.desc { font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;}
 .header-list {
 }
 .header-item {

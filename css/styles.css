@@ -6,6 +6,8 @@
     --footer-color: #F4F4FD;
     --products-color: #404BBF;
     }
+    p,h1,h2,h3,h4,h5,h6, {margin: 0;}
+    ul{margin: 0; padding-left: 0;}
     
     body {
     font-family: 'Roboto', sans-serif;
@@ -24,6 +26,10 @@
     .link {
     text-decoration: none;
     }
+    .container {
+        width: 1128px;
+        padding-left: 15px; 
+        padding: 15px;}
     
     .link:hover, link:focus {
     color: #404bbf;

@@ -29,7 +29,8 @@
     .container {
         width: 1128px;
         padding-left: 15px; 
-        padding: 15px;}
+        padding-right: 15px;
+    margin: 0 auto;}
     
     .link:hover, link:focus {
     color: #404bbf;
@@ -42,7 +43,7 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     }
-    
+    img {display: block;}
     
     
     /*....... Header.......*/
@@ -100,7 +101,8 @@
     .main-hero {
     background-color: var(--color-span);
     }
-    
+    .hero{padding-top: 120px;
+         padding-bottom: 120px;}
     .main-title {
     font-weight: 700;
     font-size: 56px;
@@ -144,7 +146,8 @@
     }
     
     /*----Second section----*/
-    
+    .section-second {padding-top: 120px;
+        padding-bottom: 120px ;}
     .hero-title {
     font-weight: 500;
     font-size: 20px;
@@ -201,7 +204,9 @@
     .section-link {
     background-color:#FFFFFF;
     }
-    
+    .section-three{padding-top: 120px;
+    padding-bottom: 120px;}
+   
     .section-three-title {
     font-weight: 500;
     font-size: 20px;
